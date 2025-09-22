@@ -1,0 +1,36 @@
+                            **Nmap scan report for 192.168.1.6**
+
+
+
+
+
+&nbsp;PORT   STATE SERVICE         VERSION
+
+* 135/tcp open  msrpc           Microsoft Windows RPC
+* 139/tcp open  netbios-ssn     Microsoft Windows netbios-ssn
+* 445/tcp open  microsoft-ds?
+* 902/tcp open  ssl/vmware-auth VMware Authentication Daemon 1.10 (Uses VNC, SOAP)
+* 912/tcp open  vmware-auth     VMware Authentication Daemon 1.0 (Uses VNC, SOAP)
+* 
+
+
+
+
+
+                            **Nmap scan report for 192.168.1.1**
+
+
+
+
+
+PORT    STATE    SERVICE    VERSION
+
+* 22/tcp  filtered ssh           N/A
+* 23/tcp  filtered telnet        N/A
+
+
+
+
+
+&nbsp;                           
+
